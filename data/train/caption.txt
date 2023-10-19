@@ -1,0 +1,975 @@
+0_1		0
+0_2		0
+0_3		0
+0_4		0
+0_5		0
+
+1_1		1
+1_2		1
+1_3		1
+1_4		1
+1_5		1
+
+2_1		2
+2_2		2
+2_3		2
+2_4		2
+2_5		2
+
+3_1		3
+3_2		3
+3_3		3
+3_4		3
+3_5		3
+
+4_1		4
+4_2		4
+4_3		4
+4_4		4
+4_5		4
+
+5_1		5
+5_2		5
+5_3		5
+5_4		5
+5_5		5
+
+6_1		6
+6_2		6
+6_3		6
+6_4		6
+6_5		6
+
+7_1		7
+7_2		7
+7_3		7
+7_4		7
+7_5		7
+
+8_1		8
+8_2		8
+8_3		8
+8_4		8
+8_5		8
+
+9_1		9
+9_2		9
+9_3		9
+9_4		9
+9_5		9
+
+a_1		a
+a_2		a
+a_3		a
+a_4		a
+a_5		a
+
+b_1		b
+b_2		b
+b_3		b
+b_4		b
+b_5		b
+
+c_1		c
+c_2		c
+c_3		c
+c_4		c
+c_5		c
+
+d_1		d
+d_2		d
+d_3		d
+d_4		d
+d_5		d
+
+e_1		e
+e_2		e
+e_3		e
+e_4		e
+e_5		e
+
+f_1		f
+f_2		f
+f_3		f
+f_4		f
+f_5		f
+
+g_1		g
+g_2		g
+g_3		g
+g_4		g
+g_5		g
+
+h_1		h
+h_2		h
+h_3		h
+h_4		h
+h_5		h
+
+i_1		i
+i_2		i
+i_3		i
+i_4		i
+i_5		i
+
+j_1		j
+j_2		j
+j_3		j
+j_4		j
+j_5		j
+
+k_1		k
+k_2		k
+k_3		k
+k_4		k
+k_5		k
+
+l_1		l
+l_2		l
+l_3		l
+l_4		l
+l_5		l
+
+m_1		m
+m_2		m
+m_3		m
+m_4		m
+m_5		m
+
+n_1		n
+n_2		n
+n_3		n
+n_4		n
+n_5		n
+
+o_1		o
+o_2		o
+o_3		o
+o_4		o
+o_5		o
+
+p_1		p
+p_2		p
+p_3		p
+p_4		p
+p_5		p
+
+q_1		q
+q_2		q
+q_3		q
+q_4		q
+q_5		q
+
+r_1		r
+r_2		r
+r_3		r
+r_4		r
+r_5		r
+
+s_1		s
+s_2		s
+s_3		s
+s_4		s
+s_5		s
+
+t_1		t
+t_2		t
+t_3		t
+t_4		t
+t_5		t
+
+u_1		u
+u_2		u
+u_3		u
+u_4		u
+u_5		u
+
+v_1		v
+v_2		v
+v_3		v
+v_4		v
+v_5		v
+
+w_1		w
+w_2		w
+w_3		w
+w_4		w
+w_5		w
+
+x_1		x
+x_2		x
+x_3		x
+x_4		x
+x_5		x
+
+y_1		y
+y_2		y
+y_3		y
+y_4		y
+y_5		y
+
+z_1		z
+z_2		z
+z_3		z
+z_4		z
+z_5		z
+
+f_big_1		F
+f_big_2		F
+f_big_3		F
+f_big_4		F
+f_big_5		F
+
+t_big_1		T
+t_big_2		T
+t_big_3		T
+t_big_4		T
+t_big_5		T
+
+round_left_bracket_1		(
+round_left_bracket_2		(
+round_left_bracket_3		(
+round_left_bracket_4		(
+round_left_bracket_5		(
+
+round_right_bracket_1		)
+round_right_bracket_2		)
+round_right_bracket_3		)
+round_right_bracket_4		)
+round_right_bracket_5		)
+
+square_left_bracket_1		[
+square_left_bracket_2		[
+square_left_bracket_3		[
+square_left_bracket_4		[
+square_left_bracket_5		[
+
+square_right_bracket_1		]
+square_right_bracket_2		]
+square_right_bracket_3		]
+square_right_bracket_4		]
+square_right_bracket_5		]
+
+plus_1		+
+plus_2		+
+plus_3		+
+plus_4		+
+plus_5		+
+plus_6		2 + 3
+plus_7		3 + 6
+plus_8		5 + 5
+plus_9		7 + 3
+plus_10		4 + 5
+plus_11		1 + 1
+plus_12		2 + 4
+plus_13		9 + 1
+plus_14		2 + 7
+plus_15		3 + 7
+plus_16		x + y
+plus_17		a + b
+
+minus_1		-
+minus_2		-
+minus_3		-
+minus_4		-
+minus_5		-
+minus_6		1 0 - 7
+minus_7		5 - 2
+minus_8		9 - 2
+minus_9		4 - 5
+minus_10		8 - 5
+minus_11		6 - 5
+minus_12		9 - 5
+minus_13		7 - 1
+minus_14		x - y
+minus_15		a - b
+
+asterisk_1		*
+asterisk_2		*
+asterisk_3		*
+asterisk_4		*
+asterisk_5		*
+asterisk_6		1 0 * 1 0 0
+asterisk_7		6 2 * 6 7
+asterisk_8		8 7 * 5 1
+asterisk_9		1 5 4 * 1 9
+asterisk_10		1 1 * 1 3
+asterisk_11		3 3 * 4 4
+asterisk_12		5 1 * 9 9 9
+asterisk_13		x * y
+asterisk_14		a * b
+asterisk_15		g * h
+asterisk_16		o * p
+asterisk_17		w * x
+
+multiply_1		×
+multiply_2		×
+multiply_3		×
+multiply_4		×
+multiply_5		×
+multiply_6		3 1 × 3
+multiply_7		4 2 × 8
+multiply_8		2 8 × 2
+multiply_9		3 × 1 9
+multiply_10		1 3 × 4
+multiply_11		5 4 × 6
+multiply_12		2 0 × 5
+multiply_13		6 × 9
+multiply_14		x × y
+multiply_15		a × b
+
+bullet_1		•
+bullet_2		•
+bullet_3		•
+bullet_4		•
+bullet_5		•
+bullet_6		9 0 • 6
+bullet_7		2 • 2 0
+bullet_8		6 0 • 5
+bullet_9		1 3 • 5 1
+bullet_10		4 • 5 0
+bullet_11		6 8 • 9 9
+bullet_12		3 0 • 8
+bullet_13		2 1 • 3 7
+bullet_14		1 0 . 3 1 • 2 0 . 4 8
+bullet_15		x • y
+bullet_16		a • b
+
+forward_slash_1		/
+forward_slash_2		/
+forward_slash_3		/
+forward_slash_4		/
+forward_slash_5		/
+forward_slash_6		5 0 / 3 4
+forward_slash_7		9 4 / 4 5
+forward_slash_8		1 2 5 / 2 5
+forward_slash_9		1 4 1 / 5 5 6
+forward_slash_10		1 1 / 1 3
+forward_slash_11		7 4 8 / 2 2
+forward_slash_12		2 6 0 / 6 0
+forward_slash_13		1 0 0 / 1 0 0 0 0
+forward_slash_14		x / y
+forward_slash_15		a / b
+
+division_1		÷
+division_2		÷
+division_3		÷
+division_4		÷
+division_5		÷
+division_6		6 4 ÷ 8
+division_7		1 5 ÷ 3
+division_8		3 5 ÷ 7
+division_9		2 7 ÷ 9
+division_10		1 8 ÷ 3
+division_11		5 7 ÷ 3
+division_12		5 5 ÷ 5
+division_13		2 4 ÷ 4
+division_14		x ÷ y
+division_15		a ÷ b
+
+colon_1		:
+colon_2		:
+colon_3		:
+colon_4		:
+colon_5		:
+colon_6		5 4 0 : 9 0
+colon_7		1 9 1 : 2 8 8
+colon_8		1 6 0 : 4
+colon_9		1 1 : 1 1
+colon_10		5 9 : 3 1
+colon_11		1 2 1 : 1 4 4
+colon_12		1 5 5 : 5
+colon_13		2 5 : 9 8
+colon_14		x : y
+colon_15		a : b
+
+power_1		1 ^ { 1 }
+power_2		2 ^ { 2 }
+power_3		3 ^ { 3 }
+power_4		4 ^ { 4 }
+power_5		5 ^ { 5 }
+power_6		a ^ { a }
+power_7		b ^ { b }
+power_8		x ^ { x }
+power_9		y ^ { y }
+power_10		z ^ { z }
+
+index_1		1 _ { 1 }
+index_2		2 _ { 2 }
+index_3		3 _ { 3 }
+index_4		4 _ { 4 }
+index_5		5 _ { 5 }
+index_6		a _ { a }
+index_7		b _ { b }
+index_8		x _ { x }
+index_9		y _ { y }
+index_10		z _ { z }
+
+decimal_1		0 . 0
+decimal_2		1 . 1
+decimal_3		2 . 2
+decimal_4		3 . 3
+decimal_5		4 . 4
+decimal_6		5 . 5
+decimal_7		1 2 3 4 . 5 6 7 8 9
+decimal_8		0 . 2
+decimal_9		0 . 2 5
+decimal_10		0 . 3
+decimal_11		0 . 4
+decimal_12		0 . 5
+decimal_13		0 . 7 5
+
+percent_1		%
+percent_2		%
+percent_3		%
+percent_4		%
+percent_5		%
+
+factorial_1		!
+factorial_2		!
+factorial_3		!
+factorial_4		!
+factorial_5		!
+
+degree_1		°
+degree_2		°
+degree_3		°
+degree_4		°
+degree_5		°
+
+equal_1		=
+equal_2		=
+equal_3		=
+equal_4		=
+equal_5		=
+equal_6		2 = 3
+equal_7		x = y
+
+not_equal_1		≠
+not_equal_2		≠
+not_equal_3		≠
+not_equal_4		≠
+not_equal_5		≠
+not_equal_6		2 ≠ 3
+not_equal_7		x ≠ y
+
+less_1		<
+less_2		<
+less_3		<
+less_4		<
+less_5		<
+less_6		2 < 3
+less_7		x < y
+
+more_1		>
+more_2		>
+more_3		>
+more_4		>
+more_5		>
+more_6		2 > 3
+more_7		x > y
+
+less_equal_1		≤
+less_equal_2		≤
+less_equal_3		≤
+less_equal_4		≤
+less_equal_5		≤
+less_equal_6		2 ≤ 3
+less_equal_7		x ≤ y
+
+more_equal_1		≥
+more_equal_2		≥
+more_equal_3		≥
+more_equal_4		≥
+more_equal_5		≥
+more_equal_6		2 ≥ 3
+more_equal_7		x ≥ y
+
+not_1		¬ x
+not_2		¬ a
+not_3		¬ b
+not_4		¬ c
+not_5		¬ d
+
+and_1		a ∧ b
+and_2		a ∧ c
+and_3		x ∧ T
+and_4		F ∧ c
+and_5		T ∧ F
+
+or_1		a ∨ b
+or_2		a ∨ c
+or_3		x ∨ T
+or_4		c ∨ F
+or_5		T ∨ F
+
+implies_1		⇒
+implies_2		⇒
+implies_3		⇒
+implies_4		⇒
+implies_5		⇒
+
+equivalent_1		≡
+equivalent_2		≡
+equivalent_3		≡
+equivalent_4		≡
+equivalent_5		≡
+
+not_equivalent_1		≢
+not_equivalent_2		≢
+not_equivalent_3		≢
+not_equivalent_4		≢
+not_equivalent_5		≢
+
+pi_1		π
+pi_2		π
+pi_3		π
+pi_4		π
+pi_5		π
+
+infinity_1		∞
+infinity_2		∞
+infinity_3		∞
+infinity_4		∞
+infinity_5		∞
+
+frac_1		frac { a , b }
+frac_2		frac { x , 2 }
+frac_3		frac { 2 , 3 }
+frac_4		frac { 3 , 4 }
+frac_5		frac { 4 , 5 }
+frac_6		frac { 8 , 9 }
+frac_7		frac { 5 , 6 }
+frac_8		frac { 1 0 , 1 0 0 0 }
+frac_9		frac { 1 2 1 , 1 1 }
+frac_10		frac { 1 4 1 , 2 5 6 }
+
+sqrt_1		sqrt { 2 }
+sqrt_2		sqrt { 3 }
+sqrt_3		sqrt { x }
+sqrt_4		sqrt { y }
+sqrt_5		sqrt { 4 }
+sqrt_6		sqrt { 5 }
+
+root_1		root { 2 , 3 }
+root_2		root { 4 , 5 }
+root_3		root { x , 1 0 }
+root_4		root { y , x }
+root_5		root { b , a }
+root_6		root { k , - 3 }
+
+abs_1		abs { a }
+abs_2		abs { x }
+abs_3		abs { b }
+abs_4		abs { a + b }
+abs_5		abs { - 2 3 }
+abs_6		abs { x y }
+
+sign_1		sign
+sign_2		sign
+sign_3		sign
+sign_4		sign
+sign_5		sign
+sign_6		sign { 2 }
+sign_7		sign ( x )
+sign_8		sign ( 0 )
+sign_9		sign ( 1 0 )
+sign_10		sign ( - 1 0 )
+
+exp_1		exp
+exp_2		exp
+exp_3		exp
+exp_4		exp
+exp_5		exp
+exp_6		exp { 2 }
+exp_7		exp ( x )
+exp_8		exp ( 2 )
+exp_9		exp { x }
+
+log_1		log
+log_2		log
+log_3		log
+log_4		log
+log_5		log
+log_6		log { 2 , x }
+log_7		log { y , x }
+log_8		log ( 3 , frac { 2 , 3 } )
+log_9		log ( 1 0 , n ^ { 2 } )
+log_10		log ( 4 , 1 + 1 )
+log_11		log { 4 , 6 }
+
+ln_1		ln
+ln_2		ln
+ln_3		ln
+ln_4		ln
+ln_5		ln
+ln_6		ln { 2 }
+ln_7		ln ( x )
+ln_8		ln { x }
+ln_9		ln ( 3 )
+
+lb_1		lb
+lb_2		lb
+lb_3		lb
+lb_4		lb
+lb_5		lb
+lb_6		lb { 2 }
+lb_7		lb ( x )
+lb_8		lb { 4 }
+lb_9		lb { x }
+
+lg_1		lg
+lg_2		lg
+lg_3		lg
+lg_4		lg
+lg_5		lg
+lg_6		lg { 2 }
+lg_7		lg ( x )
+lg_8		lg { 1 0 }
+lg_9		lg { 5 }
+
+sin_1		sin
+sin_2		sin
+sin_3		sin
+sin_4		sin
+sin_5		sin
+sin_6		sin { x }
+sin_7		sin { x } ^ { 2 }
+sin_8		sin ( x )
+sin_9		sin { 2 }
+
+cos_1		cos
+cos_2		cos
+cos_3		cos
+cos_4		cos
+cos_5		cos
+cos_6		cos { x }
+cos_7   cos { r }
+cos_8		cos { t } ^ { 4 }
+cos_9		cos { 2 }
+
+tan_1		tan
+tan_2		tan
+tan_3		tan
+tan_4		tan
+tan_5		tan
+tan_6		tan ( x )
+tan_7		tan { m } ^ { 3 }
+tan_8		tan { 2 }
+
+cot_1		cot
+cot_2		cot
+cot_3		cot
+cot_4		cot
+cot_5		cot
+cot_6		cot ( x )
+cot_7		cot { r } ^ { 1 0 }
+cot_8		cot { 2 }
+
+sec_1		sec
+sec_2		sec
+sec_3		sec
+sec_4		sec
+sec_5		sec
+sec_6		sec { 2 }
+sec_7		sec ( x )
+
+csc_1		csc
+csc_2		csc
+csc_3		csc
+csc_4		csc
+csc_5		csc
+csc_6		csc { 2 }
+csc_7		csc ( x )
+
+asin_1		asin
+asin_2		asin
+asin_3		asin
+asin_4		asin
+asin_5		asin
+asin_6		asin { 2 }
+asin_7		asin ( x )
+
+acos_1		acos
+acos_2		acos
+acos_3		acos
+acos_4		acos
+acos_5		acos
+acos_6		acos { 2 }
+acos_7		acos ( x )
+
+atan_1		atan
+atan_2		atan
+atan_3		atan
+atan_4		atan
+atan_5		atan
+atan_6		atan { 2 }
+atan_7		atan ( x )
+
+acot_1		acot
+acot_2		acot
+acot_3		acot
+acot_4		acot
+acot_5		acot
+acot_6		acot { 2 }
+acot_7		acot ( x )
+
+asec_1		asec
+asec_2		asec
+asec_3		asec
+asec_4		asec
+asec_5		asec
+asec_6		asec { 2 }
+asec_7		asec ( x )
+
+acsc_1		acsc
+acsc_2		acsc
+acsc_3		acsc
+acsc_4		acsc
+acsc_5		acsc
+acsc_6		acsc { 2 }
+acsc_7		acsc ( x )
+
+arcsin_1		arcsin
+arcsin_2		arcsin
+arcsin_3		arcsin
+arcsin_4		arcsin
+arcsin_5		arcsin
+arcsin_6		arcsin { 2 }
+arcsin_7		arcsin ( x )
+
+arccos_1		arccos
+arccos_2		arccos
+arccos_3		arccos
+arccos_4		arccos
+arccos_5		arccos
+arccos_6		arccos { 2 }
+arccos_7		arccos ( x )
+
+arctan_1		arctan
+arctan_2		arctan
+arctan_3		arctan
+arctan_4		arctan
+arctan_5		arctan
+arctan_6		arctan { 2 }
+arctan_7		arctan ( x )
+
+arccot_1		arccot
+arccot_2		arccot
+arccot_3		arccot
+arccot_4		arccot
+arccot_5		arccot
+arccot_6		arccot { 2 }
+arccot_7		arccot ( x )
+
+arcsec_1		arcsec
+arcsec_2		arcsec
+arcsec_3		arcsec
+arcsec_4		arcsec
+arcsec_5		arcsec
+arcsec_6		arcsec { 2 }
+arcsec_7		arcsec ( x )
+
+arccsc_1		arccsc
+arccsc_2		arccsc
+arccsc_3		arccsc
+arccsc_4		arccsc
+arccsc_5		arccsc
+arccsc_6		arccsc { 2 }
+arccsc_7		arccsc ( x )
+
+sinh_1		sinh
+sinh_2		sinh
+sinh_3		sinh
+sinh_4		sinh
+sinh_5		sinh
+sinh_6		sinh { 2 }
+sinh_7		sinh ( x )
+
+cosh_1		cosh
+cosh_2		cosh
+cosh_3		cosh
+cosh_4		cosh
+cosh_5		cosh
+cosh_6		cosh { 2 }
+cosh_7		cosh ( x )
+
+tanh_1		tanh
+tanh_2		tanh
+tanh_3		tanh
+tanh_4		tanh
+tanh_5		tanh
+tanh_6		tanh { 2 }
+tanh_7		tanh ( x )
+
+coth_1		coth
+coth_2		coth
+coth_3		coth
+coth_4		coth
+coth_5		coth
+coth_6		coth { 2 }
+coth_7		coth ( x )
+
+sech_1		sech
+sech_2		sech
+sech_3		sech
+sech_4		sech
+sech_5		sech
+sech_6		sech { 2 }
+sech_7		sech ( x )
+
+csch_1		csch
+csch_2		csch
+csch_3		csch
+csch_4		csch
+csch_5		csch
+csch_6		csch { 2 }
+csch_7		csch ( x )
+
+asinh_1		asinh
+asinh_2		asinh
+asinh_3		asinh
+asinh_4		asinh
+asinh_5		asinh
+asinh_6		asinh { 2 }
+asinh_7		asinh ( x )
+
+acosh_1		acosh
+acosh_2		acosh
+acosh_3		acosh
+acosh_4		acosh
+acosh_5		acosh
+acosh_6		acosh { 2 }
+acosh_7		acosh ( x )
+
+atanh_1		atanh
+atanh_2		atanh
+atanh_3		atanh
+atanh_4		atanh
+atanh_5		atanh
+atanh_6		atanh { 2 }
+atanh_7		atanh ( x )
+
+acoth_1		acoth
+acoth_2		acoth
+acoth_3		acoth
+acoth_4		acoth
+acoth_5		acoth
+acoth_6		acoth { 2 }
+acoth_7		acoth ( x )
+
+asech_1		asech
+asech_2		asech
+asech_3		asech
+asech_4		asech
+asech_5		asech
+asech_6		asech { 2 }
+asech_7		asech ( x )
+
+acsch_1		acsch
+acsch_2		acsch
+acsch_3		acsch
+acsch_4		acsch
+acsch_5		acsch
+acsch_6		acsch { 2 }
+acsch_7		acsch ( x )
+
+arcsinh_1		arcsinh
+arcsinh_2		arcsinh
+arcsinh_3		arcsinh
+arcsinh_4		arcsinh
+arcsinh_5		arcsinh
+arcsinh_6		arcsinh { 2 }
+arcsinh_7		arcsinh ( x )
+
+arccosh_1		arccosh
+arccosh_2		arccosh
+arccosh_3		arccosh
+arccosh_4		arccosh
+arccosh_5		arccosh
+arccosh_6		arccosh { 2 }
+arccosh_7		arccosh ( x )
+
+arctanh_1		arctanh
+arctanh_2		arctanh
+arctanh_3		arctanh
+arctanh_4		arctanh
+arctanh_5		arctanh
+arctanh_6		arctanh { 2 }
+arctanh_7		arctanh ( x )
+
+arccoth_1		arccoth
+arccoth_2		arccoth
+arccoth_3		arccoth
+arccoth_4		arccoth
+arccoth_5		arccoth
+arccoth_6		arccoth { 2 }
+arccoth_7		arccoth ( x )
+
+arcsech_1		arcsech
+arcsech_2		arcsech
+arcsech_3		arcsech
+arcsech_4		arcsech
+arcsech_5		arcsech
+arcsech_6		arcsech { 2 }
+arcsech_7		arcsech ( x )
+
+arccsch_1		arccsch
+arccsch_2		arccsch
+arccsch_3		arccsch
+arccsch_4		arccsch
+arccsch_5		arccsch
+arccsch_6		arccsch { 2 }
+arccsch_7		arccsch ( x )
+
+expr_1		sin ( x ) ^ { 2 }
+expr_2		cos ( x ) ^ { 2 }
+expr_3		sin ( x ) ^ { 2 } + cos ( x ) ^ { 2 }
+expr_4		sin { x } × cos { x }
+expr_5		tan { x } • cot { x }
+expr_6		frac { x ^ { 3 } + 3 x ^ { 2 } + x , sqrt { 4 5 } + frac { 2 , 3 } • a ^ { 2 } }
+expr_7		sin ( asin ( x ) )
+expr_8		cos ( acos ( x ) )
+expr_9		tan ( atan ( x ) )
+expr_10		cot ( acot ( x ) )
+expr_11		sinh ( asinh ( x ) )
+expr_12		cosh ( acosh ( x ) )
+expr_13		tanh ( atanh ( x ) )
+expr_14		coth ( acoth ( x ) )
+expr_15		a b c
+expr_16		a • b • c
+expr_17		a × b × c
+expr_18		frac { log { 2 , 3 } + log { 3 , 2 } , log { 4 , 5 } + log { 5 , 4 } }
+expr_19		( )
+expr_20		( ( ( ) ) )
+expr_21		( ( ) + ( ) )
+expr_22		[ ] [ [ [ ] ] ]
+expr_23		[ [ ] + [ ] ]
+expr_24		2 ^ { 3 } + 3 ^ { 4 } = 8 9
+expr_25		1 . 1 2 5 + 2 . 6 2 5 = 3 . 7 5
+expr_26		1 . 1 2 5 + 2 . 6 2 5 = 3 . 7 5
+expr_27		3 . 2 5 + 1 1 . 8 = 1 5 . 0 5
+expr_28		log { x , y } ≠ log { y , x }
+expr_29		- frac { 1 , 5 }
+expr_30		- frac { 1 , 1 5 3 }
+expr_31		frac { sin { p } , p }
+expr_32		n ^ { - 2 }
+expr_33		2 ^ { 2 ^ { 2 ^ { 2 } } }
+expr_34		2 _ { 2 _ { 2 _ { 2 _ { 2 } } } }
+expr_35		sqrt { ( frac { x , 4 } ) ^ { 2 } }
+expr_36		abs { abs { x + y } }
+expr_37		frac { x ^ { 2 } + 2 , 2 + 1 }
+expr_38		frac { frac { 1 , 2 } + sqrt { 3 } , x ^ { frac { 1 , 4 } } + 6 }
+expr_39		frac { frac { 1 , 3 } , frac { 3 , 1 } }
+expr_40		frac { 2 , 3 } + 0
+expr_41		frac { x ^ { 2 } + 4 , y ^ { 4 } + 2 } - sqrt { 1 2 5 }
+expr_42		frac { a + b + c , d } + frac { a , b } + sqrt { c }
+expr_43		sqrt { 1 1 } + frac { a , b }
+expr_44		frac { a , b } + sqrt { 1 3 }
+expr_45		ln { e ^ e }
+expr_46		lb ( 2 ^ 1 5 )
+expr_47		lg { 1 0 ^ { 1 0 } }
+expr_48		lg ( 2 ^ { x } )
+expr_49		( log { a , b } ) ^ { c }
+expr_50		x ^ { 1 2 5 } + y ^ { 3 3 z }
+expr_51		x _ { 1 2 5 } + y _ { 3 3 z }
