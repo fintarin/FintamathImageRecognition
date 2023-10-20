@@ -1,4 +1,4 @@
-test_1		frac { x ^ { 2 } + sqrt { y } , sqrt { 3 } + 3 } - 4 5
+test_1		frac { x ^ { 2 } + sqrt { y } } { sqrt { 3 } + 3 } - 4 5
 test_2		2 x ^ { 2 } - 4 5 1 x + 1 0 = 0
 test_3		a • m • n
 test_4		s t i
@@ -14,9 +14,9 @@ test_13		1 0 °
 test_14		1 0 %
 test_15		1 0 !
 test_16		2 + 3 ( 6 + 4 ) × 2 / 7
-test_17		frac { 2 , 4 } • frac { 8 , 9 } • frac { 1 0 , 3 }
-test_18		frac { frac { x ^ { 2 } , 2 } + frac { y ^ { 2 } , 3 } , sqrt { 1 4 1 } } + 1 0
-test_19		- frac { - frac { x , 2 } / x , - 1 0 0 }
+test_17		frac { 2 } { 4 } • frac { 8 } { 9 } • frac { 1 0 } { 3 }
+test_18		frac { frac { x ^ { 2 } } { 2 } + frac { y ^ { 2 } } { 3 } } { sqrt { 1 4 1 } } + 1 0
+test_19		- frac { - frac { x } { 2 } / x } { - 1 0 0 }
 test_20		sin { x } ^ { 2 } + cos { x } ^ { 2 } = 1
 test_21		a + b + c + d + e + f + g
 test_22		( ( 2 + 2 ) ( 2 + 3 ) ) ^ { 2 }
@@ -31,7 +31,7 @@ test_30		8 < 9
 test_31		x ^ { 2 } + y ^ { 2 } = c
 test_32		2 * 1 0 × 7 • 9
 test_33		a _ { 1 } + b _ { 2 } + c _ { 3 }
-test_34		frac { 2 , 3 } + sqrt { 4 }
+test_34		frac { 2 } { 3 } + sqrt { 4 }
 test_35		3 / 4 ÷ 5 : 6
 test_36		t ^ { 3 } + 3 t ^ { 2 } + 3 t + 1 = 0
 test_37		8 ≠ 9
@@ -40,12 +40,12 @@ test_39		abs { x + y } • abs { a }
 test_40		abs { t }
 test_41		sqrt { - 1 }
 test_42		e π i
-test_43		e ^ { frac { π i , 2 } }
+test_43		e ^ { frac { π i } { 2 } }
 test_44		cot { 4 }
 test_45		sec { 2 2 }
 test_46		csc { 3 3 }
-test_47		log ( 1 1 , m )
-test_48		log { 3 , 9 }
+test_47		log { 1 1 } { ( m ) }
+test_48		log { 3 } { 9 }
 test_49		tan { 4 }
 test_50		cos { 4 }
 test_51		sin { 4 }
@@ -77,7 +77,7 @@ test_76		arccsc { 7 }
 test_77		sinh { 9 }
 test_78		cosh { 9 }
 test_79		2 π x
-test_80		frac { ∞ , ∞ } - ∞ + ∞
+test_80		frac { ∞ } { ∞ } - ∞ + ∞
 test_81		¬ ( a ⇒ b ) ≡ c
 test_82		( ¬ a ∨ b ) ∧ ( c ∨ ¬ ( d ) )
 test_83		arccsch { 6 }
@@ -90,10 +90,10 @@ test_89		acsch { 5 }
 test_90		asech { 5 }
 test_91		acoth { 5 }
 test_92		atanh { 5 }
-test_93		frac { sin { x } , frac { 2 , cos { x } } } + 4
+test_93		frac { sin { x } } { frac { 2 } { cos { x } } } + 4
 test_94		2 x ^ { 3 } + 7 x ^ { 2 } - 5 x = 2 4
-test_95		frac { frac { x , 2 } + frac { y , 3 } , sqrt { 1 4 5 } }
-test_96		frac { 2 , 3 } + frac { 4 , 5 }
+test_95		frac { frac { x } { 2 } + frac { y } { 3 } } { sqrt { 1 4 5 } }
+test_96		frac { 2 } { 3 } + frac { 4 } { 5 }
 test_97		T ≢ F
 test_98		∞ / ∞
 test_99		( T ∧ F ) ∨ T
@@ -102,3 +102,10 @@ test_101		tan ( x ) • cot ( x )
 test_102		sin ( x ) ^ { 2 } + cos ( x ) ^ { 2 } = 1
 test_103		x ^ { 2 2 sqrt { 3 } } + a ^ { 7 y • 5 }
 test_104		x _ { 1 2 7 } + y _ { a b c }
+test_105		a mod b mod k
+test_106		floor { 2 . 9 5 }
+test_107		ceil { 3 . 3 3 3 3 }
+test_108		floor { 8 . 6 6 6 7 }
+test_109		ceil { 5 . 5 8 1 1 }
+test_110		1 2 ^ { 8 } : 1 2 ^ { 6 } ;
+test_111		a = - 2 , 1 3 .

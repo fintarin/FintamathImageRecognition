@@ -521,6 +521,15 @@ not_equivalent_3		≢
 not_equivalent_4		≢
 not_equivalent_5		≢
 
+mod_1		mod
+mod_2		mod
+mod_3		mod
+mod_4		mod
+mod_5		mod
+mod_6		2 mod 4
+mod_7		1 0 mod 3
+mod_8		a mod b
+
 pi_1		π
 pi_2		π
 pi_3		π
@@ -533,16 +542,16 @@ infinity_3		∞
 infinity_4		∞
 infinity_5		∞
 
-frac_1		frac { a , b }
-frac_2		frac { x , 2 }
-frac_3		frac { 2 , 3 }
-frac_4		frac { 3 , 4 }
-frac_5		frac { 4 , 5 }
-frac_6		frac { 8 , 9 }
-frac_7		frac { 5 , 6 }
-frac_8		frac { 1 0 , 1 0 0 0 }
-frac_9		frac { 1 2 1 , 1 1 }
-frac_10		frac { 1 4 1 , 2 5 6 }
+frac_1		frac { a } { b }
+frac_2		frac { x } { 2 }
+frac_3		frac { 2 } { 3 }
+frac_4		frac { 3 } { 4 }
+frac_5		frac { 4 } { 5 }
+frac_6		frac { 8 } { 9 }
+frac_7		frac { 5 } { 6 }
+frac_8		frac { 1 0 } { 1 0 0 0 }
+frac_9		frac { 1 2 1 } { 1 1 }
+frac_10		frac { 1 4 1 } { 2 5 6 }
 
 sqrt_1		sqrt { 2 }
 sqrt_2		sqrt { 3 }
@@ -551,12 +560,12 @@ sqrt_4		sqrt { y }
 sqrt_5		sqrt { 4 }
 sqrt_6		sqrt { 5 }
 
-root_1		root { 2 , 3 }
-root_2		root { 4 , 5 }
-root_3		root { x , 1 0 }
-root_4		root { y , x }
-root_5		root { b , a }
-root_6		root { k , - 3 }
+root_1		root { 2 } { 3 }
+root_2		root { 4 } { 5 }
+root_3		root { x } { 1 0 }
+root_4		root { y } { x }
+root_5		root { b } { a }
+root_6		root { k } { - 3 }
 
 abs_1		abs { a }
 abs_2		abs { x }
@@ -564,6 +573,18 @@ abs_3		abs { b }
 abs_4		abs { a + b }
 abs_5		abs { - 2 3 }
 abs_6		abs { x y }
+
+floor_1		floor { a }
+floor_1		floor { x }
+floor_1		floor { b }
+floor_4		floor { 2 . 2 }
+floor_5		floor { frac { 5 } { 8 } }
+
+ceil_1		ceil { a }
+ceil_1		ceil { x }
+ceil_1		ceil { b }
+ceil_4		ceil { 3 . 3 }
+ceil_5		ceil { frac { 2 } { 3 } }
 
 sign_1		sign
 sign_2		sign
@@ -591,12 +612,12 @@ log_2		log
 log_3		log
 log_4		log
 log_5		log
-log_6		log { 2 , x }
-log_7		log { y , x }
-log_8		log ( 3 , frac { 2 , 3 } )
-log_9		log ( 1 0 , n ^ { 2 } )
-log_10		log ( 4 , 1 + 1 )
-log_11		log { 4 , 6 }
+log_6		log { 2 } { x }
+log_7		log { y } { x }
+log_8		log { 3 } { ( frac { 2 } { 3 } ) }
+log_9		log { 1 0 } { ( n ^ { 2 } ) }
+log_10		log { 4 } { ( 1 + 1 ) }
+log_11		log { 4 } { 6 }
 
 ln_1		ln
 ln_2		ln
@@ -927,7 +948,7 @@ expr_2		cos ( x ) ^ { 2 }
 expr_3		sin ( x ) ^ { 2 } + cos ( x ) ^ { 2 }
 expr_4		sin { x } × cos { x }
 expr_5		tan { x } • cot { x }
-expr_6		frac { x ^ { 3 } + 3 x ^ { 2 } + x , sqrt { 4 5 } + frac { 2 , 3 } • a ^ { 2 } }
+expr_6		frac { x ^ { 3 } + 3 x ^ { 2 } + x } { sqrt { 4 5 } + frac { 2 } { 3 } • a ^ { 2 } }
 expr_7		sin ( asin ( x ) )
 expr_8		cos ( acos ( x ) )
 expr_9		tan ( atan ( x ) )
@@ -939,7 +960,7 @@ expr_14		coth ( acoth ( x ) )
 expr_15		a b c
 expr_16		a • b • c
 expr_17		a × b × c
-expr_18		frac { log { 2 , 3 } + log { 3 , 2 } , log { 4 , 5 } + log { 5 , 4 } }
+expr_18		frac { log { 2 } { 3 } + log { 3 } { 2 } } { log { 4 } { 5 } + log { 5 } { 4 } }
 expr_19		( )
 expr_20		( ( ( ) ) )
 expr_21		( ( ) + ( ) )
@@ -947,29 +968,29 @@ expr_22		[ ] [ [ [ ] ] ]
 expr_23		[ [ ] + [ ] ]
 expr_24		2 ^ { 3 } + 3 ^ { 4 } = 8 9
 expr_25		1 . 1 2 5 + 2 . 6 2 5 = 3 . 7 5
-expr_26		1 . 1 2 5 + 2 . 6 2 5 = 3 . 7 5
-expr_27		3 . 2 5 + 1 1 . 8 = 1 5 . 0 5
-expr_28		log { x , y } ≠ log { y , x }
-expr_29		- frac { 1 , 5 }
-expr_30		- frac { 1 , 1 5 3 }
-expr_31		frac { sin { p } , p }
+expr_26		1 , 1 2 5 + 2 , 6 2 5 = 3 , 7 5
+expr_27		3 , 2 5 + 1 1 , 8 = 1 5 , 0 5
+expr_28		log { x } { y } ≠ log { y } { x }
+expr_29		- frac { 1 } { 5 }
+expr_30		- frac { 1 } { 1 5 3 }
+expr_31		frac { sin { p } } { p }
 expr_32		n ^ { - 2 }
 expr_33		2 ^ { 2 ^ { 2 ^ { 2 } } }
 expr_34		2 _ { 2 _ { 2 _ { 2 _ { 2 } } } }
-expr_35		sqrt { ( frac { x , 4 } ) ^ { 2 } }
+expr_35		sqrt { ( frac { x } { 4 } ) ^ { 2 } }
 expr_36		abs { abs { x + y } }
-expr_37		frac { x ^ { 2 } + 2 , 2 + 1 }
-expr_38		frac { frac { 1 , 2 } + sqrt { 3 } , x ^ { frac { 1 , 4 } } + 6 }
-expr_39		frac { frac { 1 , 3 } , frac { 3 , 1 } }
-expr_40		frac { 2 , 3 } + 0
-expr_41		frac { x ^ { 2 } + 4 , y ^ { 4 } + 2 } - sqrt { 1 2 5 }
-expr_42		frac { a + b + c , d } + frac { a , b } + sqrt { c }
-expr_43		sqrt { 1 1 } + frac { a , b }
-expr_44		frac { a , b } + sqrt { 1 3 }
+expr_37		frac { x ^ { 2 } + 2 } { 2 + 1 }
+expr_38		frac { frac { 1 } { 2 } + sqrt { 3 } } { x ^ { frac { 1 } { 4 } } + 6 }
+expr_39		frac { frac { 1 } { 3 } } { frac { 3 } { 1 } }
+expr_40		frac { 2 } { 3 } + 0
+expr_41		frac { x ^ { 2 } + 4 } { y ^ { 4 } + 2 } - sqrt { 1 2 5 }
+expr_42		frac { a + b + c } { d } + frac { a } { b } + sqrt { c }
+expr_43		sqrt { 1 1 } + frac { a } { b }
+expr_44		frac { a } { b } + sqrt { 1 3 }
 expr_45		ln { e ^ e }
 expr_46		lb ( 2 ^ 1 5 )
 expr_47		lg { 1 0 ^ { 1 0 } }
 expr_48		lg ( 2 ^ { x } )
-expr_49		( log { a , b } ) ^ { c }
+expr_49		( log { a } { b } ) ^ { c }
 expr_50		x ^ { 1 2 5 } + y ^ { 3 3 z }
 expr_51		x _ { 1 2 5 } + y _ { 3 3 z }

@@ -54,6 +54,7 @@ T
 _
 .
 ,
+;
 %
 !
 °
@@ -69,12 +70,15 @@ _
 ⇒
 ≡
 ≢
+mod
 π
 ∞
 frac
 sqrt
 root
 abs
+floor
+ceil
 sign
 exp
 log
