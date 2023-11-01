@@ -4,7 +4,12 @@ Handwritten Mathematical Expression Recognition for Fintamath.
 
 Based on [CoMER](https://github.com/Green-Wood/CoMER).
 
-The dataset consists of images from the [Aida Calculus Math Handwriting Recognition Dataset](https://www.kaggle.com/datasets/aidapearson/ocr-data/data), self-drawn images, and images from the web.
+The dataset contains:
+
+- Images from the [Aida Calculus Math Handwriting Recognition Dataset](https://www.kaggle.com/datasets/aidapearson/ocr-data/data)
+- Images from the [Algebra and Trigonometry](https://openstax.org/details/books/algebra-and-trigonometry-2e)
+- Self-drawn images
+- Images from the web
 
 ## Install
 
